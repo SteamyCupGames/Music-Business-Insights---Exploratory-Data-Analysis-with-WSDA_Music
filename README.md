@@ -23,10 +23,10 @@ WSDA_Music_Analysis/
 │   └── 02_analysis_python.ipynb     # Data analysis & visualization
 │
 ├── dashboard/
-│   └── music_dashboard.pbix         # Optional Power BI dashboard
+│   └── music_dashboard.pbix         # Power BI dashboard
 │
 ├── images/
-│   └── preview.png                  # Dashboard or chart previews
+│   └── preview.png                  # Dashboard previews
 │
 ├── README.md                        # Project overview
 └── requirements.txt                 # Python dependencies
