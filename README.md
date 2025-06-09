@@ -1,6 +1,6 @@
 # 🎧 Music Business Insights – Exploratory Data Analysis with WSDA\_Music
 
-Welcome to this data analysis project using the **WSDA\_Music** dataset – a rich SQL-based database simulating a music store's operations. This project showcases how to extract business insights using **SQL, Python (Pandas, Seaborn, Plotly)** and optional **Power BI** or **Streamlit** for interactive visualization.
+Welcome to this data analysis project using the **WSDA\_Music** dataset – a rich SQL-based database simulating a music store's operations. This project showcases how to extract business insights using **SQL, Python (Pandas, Matplotlib)** and **Power BI**  for interactive visualization.
 
 ---
 
@@ -45,9 +45,9 @@ WSDA_Music_Analysis/
 
 ## 🧰 Tech Stack
 
-* **Languages**: SQL, Python (Pandas, Seaborn, Plotly)
+* **Languages**: SQL, Python (Pandas, Matplotlib)
 * **Database**: SQLite
-* **Visualization**: Power BI / Streamlit / Plotly
+* **Visualization**: Power BI 
 * **Notebook**: Jupyter
 
 ---
