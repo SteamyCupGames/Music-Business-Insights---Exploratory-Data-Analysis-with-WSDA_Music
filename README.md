@@ -4,6 +4,15 @@ Welcome to this data analysis project using the **WSDA\_Music** dataset – a ri
 
 ---
 
+## 📚 Context
+
+The music industry generates massive volumes of sales and listener data.  
+This project simulates the analysis of a digital music store using a real-world relational database structure to extract actionable insights for sales strategy, marketing and catalog optimization.
+
+It’s designed as a showcase of how data analysis can drive decisions in entertainment and retail.
+
+---
+
 ## 🧠 Objective
 
 To analyze music sales, customer behavior, and product performance to answer business questions and present clear, visual insights useful for both technical and non-technical audiences.
@@ -52,6 +61,14 @@ WSDA_Music_Analysis/
 
 ---
 
+## 📊 Key Insights & Visuals
+
+- 🎵 **Rock** genre had the highest average revenue per track, while **Opera** led in total track volume.
+- 🌍 Most purchases came from **USA and Canada**, though **Brazil** had the highest revenue per customer.
+- 🕒 Revenue peaked in the **second quarter** of the year, suggesting a seasonal pattern.
+
+---
+
 ## 📸 Dashboard Preview
 
 ![Preview](images/preview.png)
@@ -64,6 +81,14 @@ WSDA_Music_Analysis/
 2. Open the Jupyter notebooks in the `notebooks/` folder.
 3. Run `requirements.txt` to install Python packages.
 4. Explore the optional Power BI dashboard in the `dashboard/` folder.
+
+---
+
+## 🧠 Personal Learnings
+
+- Strengthened my SQL join and aggregation skills in a business context.
+- Improved my use of Power BI for storytelling and dashboard interactivity.
+- Learned to structure projects for reproducibility and clarity.
 
 ---
 
