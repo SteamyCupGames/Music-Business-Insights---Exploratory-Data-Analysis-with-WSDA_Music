@@ -71,7 +71,7 @@ WSDA_Music_Analysis/
 
 ## 📸 Dashboard Preview
 
-![Preview](images/🛍️ Customer Behaviour.png)
+![Preview](images/preview.png)
 
 ---
 
