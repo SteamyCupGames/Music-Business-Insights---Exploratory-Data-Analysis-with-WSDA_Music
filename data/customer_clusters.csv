@@ -1,0 +1,60 @@
+CustomerId,customer_name,Country,total_invoices,total_spent,total_tracks,cluster,segment
+1,Luís Gonçalves,Brazil,7,39.62,38,0,Frequent Low Spenders
+2,Leonie Köhler,Germany,7,37.62,38,0,Frequent Low Spenders
+3,François Tremblay,Canada,7,39.62,38,0,Frequent Low Spenders
+4,Bjørn Hansen,Norway,7,39.62,38,0,Frequent Low Spenders
+5,František Wichterlová,Czech Republic,7,40.62,38,0,Frequent Low Spenders
+6,Helena Holý,Czech Republic,7,49.62,38,2,High-Value Purchasers
+7,Astrid Gruber,Austria,7,42.62,38,3,Track Collectors
+8,Daan Peeters,Belgium,7,37.62,38,0,Frequent Low Spenders
+9,Kara Nielsen,Denmark,7,37.62,38,0,Frequent Low Spenders
+10,Eduardo Martins,Brazil,7,37.62,38,0,Frequent Low Spenders
+11,Alexandre Rocha,Brazil,7,37.62,38,0,Frequent Low Spenders
+12,Roberto Almeida,Brazil,7,37.62,38,0,Frequent Low Spenders
+13,Fernanda Ramos,Brazil,7,37.62,38,0,Frequent Low Spenders
+14,Mark Philips,Canada,7,37.62,38,0,Frequent Low Spenders
+15,Jennifer Peterson,Canada,7,38.62,38,0,Frequent Low Spenders
+16,Frank Harris,USA,7,37.62,38,0,Frequent Low Spenders
+17,Jack Smith,USA,7,39.62,38,0,Frequent Low Spenders
+18,Michelle Brooks,USA,7,37.62,38,0,Frequent Low Spenders
+19,Tim Goyer,USA,7,38.62,38,0,Frequent Low Spenders
+20,Dan Miller,USA,7,39.62,38,0,Frequent Low Spenders
+21,Kathy Chase,USA,7,37.62,38,0,Frequent Low Spenders
+22,Heather Leacock,USA,7,39.62,38,0,Frequent Low Spenders
+23,John Gordon,USA,7,37.62,38,0,Frequent Low Spenders
+24,Frank Ralston,USA,7,43.62,38,3,Track Collectors
+25,Victor Stevens,USA,7,42.62,38,3,Track Collectors
+26,Richard Cunningham,USA,7,47.62,38,2,High-Value Purchasers
+27,Patrick Gray,USA,7,37.62,38,0,Frequent Low Spenders
+28,Julia Barnett,USA,7,43.62,38,3,Track Collectors
+29,Robert Brown,Canada,7,37.62,38,0,Frequent Low Spenders
+30,Edward Francis,Canada,7,37.62,38,0,Frequent Low Spenders
+31,Martha Silk,Canada,7,37.62,38,0,Frequent Low Spenders
+32,Aaron Mitchell,Canada,7,37.62,38,0,Frequent Low Spenders
+33,Ellie Sullivan,Canada,7,37.62,38,0,Frequent Low Spenders
+34,João Fernandes,Portugal,7,39.62,38,0,Frequent Low Spenders
+35,Madalena Sampaio,Portugal,7,37.62,38,0,Frequent Low Spenders
+36,Hannah Schneider,Germany,7,37.62,38,0,Frequent Low Spenders
+37,Fynn Zimmermann,Germany,7,43.62,38,3,Track Collectors
+38,Niklas Schröder,Germany,7,37.62,38,0,Frequent Low Spenders
+39,Camille Bernard,France,7,38.62,38,0,Frequent Low Spenders
+40,Dominique Lefebvre,France,7,38.62,38,0,Frequent Low Spenders
+41,Marc Dubois,France,7,37.62,38,0,Frequent Low Spenders
+42,Wyatt Girard,France,7,39.62,38,0,Frequent Low Spenders
+43,Isabelle Mercier,France,7,40.62,38,0,Frequent Low Spenders
+44,Terhi Hämäläinen,Finland,7,41.62,38,3,Track Collectors
+45,Ladislav Kovács,Hungary,7,45.62,38,3,Track Collectors
+46,Hugh O'Reilly,Ireland,7,45.62,38,3,Track Collectors
+47,Lucas Mancini,Italy,7,37.62,38,0,Frequent Low Spenders
+48,Johannes Van der Berg,Netherlands,7,40.62,38,0,Frequent Low Spenders
+49,Stanisław Wójcik,Poland,7,37.62,38,0,Frequent Low Spenders
+50,Enrique Muñoz,Spain,7,37.62,38,0,Frequent Low Spenders
+51,Joakim Johansson,Sweden,7,38.62,38,0,Frequent Low Spenders
+52,Emma Jones,United Kingdom,7,37.62,38,0,Frequent Low Spenders
+53,Phil Hughes,United Kingdom,7,37.62,38,0,Frequent Low Spenders
+54,Steve Murray,United Kingdom,7,37.62,38,0,Frequent Low Spenders
+55,Mark Taylor,Australia,7,37.62,38,0,Frequent Low Spenders
+56,Diego Gutiérrez,Argentina,7,37.62,38,0,Frequent Low Spenders
+57,Luis Rojas,Chile,7,46.62,38,2,High-Value Purchasers
+58,Manoj Pareek,India,7,38.62,38,0,Frequent Low Spenders
+59,Puja Srivastava,India,6,36.64,36,1,Average Buyers
