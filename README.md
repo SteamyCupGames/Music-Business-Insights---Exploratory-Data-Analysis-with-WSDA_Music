@@ -28,8 +28,9 @@ WSDA_Music_Analysis/
 │   └── WSDA_Music.db                # SQLite database
 │
 ├── notebooks/
-│   ├── 01_exploration_sql.ipynb     # SQL queries and basic EDA
-│   └── 02_analysis_python.ipynb     # Data analysis & visualization
+│   ├── 01_exploration_sql.ipynb        # SQL queries and basic EDA
+│   ├── 02_analysis_python.ipynb        # Data analysis & visualization
+│   └── 03_clustering_customers.ipynb   # Customer segmentation (ML)
 │
 ├── dashboard/
 │   └── music_dashboard.pbix         # Power BI dashboard
@@ -72,6 +73,26 @@ WSDA_Music_Analysis/
 ## 📸 Dashboard Preview
 
 ![Preview](images/preview.png)
+
+---
+
+## 📦 Machine Learning Extension: Customer Segmentation
+
+To enrich the business analysis with data science, we applied **KMeans clustering** to segment customers based on their behavior:
+
+| Segment                | Description                                                                 |
+|------------------------|------------------------------------------------------------------------------|
+| 🤑 High-Value Purchasers | Few purchases, but high total spending – ideal for premium offerings          |
+| 🔁 Frequent Low Spenders | Many purchases, low value – good for loyalty programs                         |
+| 🎼 Track Collectors      | Purchase many individual tracks – possibly curators or collectors             |
+| 🎯 Average Buyers        | Balanced across all features – general customer base                          |
+
+### 📊 Visualizations:
+- PCA scatterplot of clusters
+- Bar chart comparing average behavior per segment
+- Elbow method to validate optimal number of clusters
+
+<img src="images/customer_cluster_profiles.png" width="600" />
 
 ---
 
