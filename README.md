@@ -30,7 +30,8 @@ WSDA_Music_Analysis/
 ├── notebooks/
 │   ├── 01_exploration_sql.ipynb        # SQL queries and basic EDA
 │   ├── 02_analysis_python.ipynb        # Data analysis & visualization
-│   └── 03_clustering_customers.ipynb   # Customer segmentation (ML)
+│   ├── 03_clustering_customers.ipynb   # Customer segmentation (ML)
+│   └── 03_clustering_customers.ipynb   # Churn prediction (ML)
 │
 ├── dashboard/
 │   └── music_dashboard.pbix         # Power BI dashboard
@@ -93,6 +94,22 @@ To enrich the business analysis with data science, we applied **KMeans clusterin
 - Elbow method to validate optimal number of clusters
 
 <img src="images/customer_cluster_profiles.png" width="600" />
+
+---
+
+## 📉 Machine Learning Extension: Churn Prediction
+
+To further enhance this project, we implemented a **Random Forest classifier** to predict customer churn based on behavior such as total spending and time since last purchase.
+
+We started with 3 input features and refined the model using only the top 2 based on feature importance. The refined model:
+
+- ✅ Achieved **100% accuracy and 1.0 ROC AUC** on the test set (small sample)
+- 🧠 Demonstrated that **spending behavior and inactivity** are key churn indicators
+- ⚠️ Caution: Results likely include **overfitting** due to small test size – a risk we openly evaluate in the notebook
+
+### 📈 Visuals:
+- ROC Curve and feature importance chart
+- Interpretative summary with business action points
 
 ---
 
